@@ -3,10 +3,10 @@ Ratetouille is the project submitted by Team 2 in the completion of the KPT Proj
 ## Developed by - Archit Jain
 For Ratetouille Main Algorithm Follow Ratetouille_JAVA Folder
 ### Steps to follow
-Step 1 - Install JAVA, JDK version 8 or above(preferably the latest version), MySQL version 5.7 or version 8 on the computer.
-Step 2 - Use your preferable IDE(IntelliJ or jGrasp)
-Step 3 - Extract Ratetouille.zip
-Step 4 – Open the MySQL command line client.
+Step 1 - Install JAVA, JDK version 8 or above(preferably the latest version), MySQL version 5.7 or version 8 on the computer.</br>
+Step 2 - Use your preferable IDE(IntelliJ or jGrasp)</br>
+Step 3 - Extract Ratetouille.zip</br>
+Step 4 – Open the MySQL command line client.</br>
 Step 5 – Run the command “CREATE DATABASE ratetouille;”
 Step 6 – This would create the database for the JAVA program.
 Step 7 – The tables within the database would be created directly in the program.
