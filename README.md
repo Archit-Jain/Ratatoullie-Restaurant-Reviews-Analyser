@@ -2,6 +2,11 @@
 Ratetouille is the project submitted by Team 2 in the completion of the KPT Project.
 ## Developed by - Archit Jain
 For Ratetouille Main Algorithm Follow Ratetouille_JAVA Folder
+![website](
+https://github.com/Archit-Jain/RestaurantReviews/blob/master/website.PNG)
+![android app](https://github.com/Archit-Jain/RestaurantReviews/blob/master/android.PNG
+)
+
 ### Steps to follow
 Step 1 - Install JAVA, JDK version 8 or above(preferably the latest version), MySQL version 5.7 or version 8 on the computer.</br>
 Step 2 - Use your preferable IDE(IntelliJ or jGrasp)</br>
